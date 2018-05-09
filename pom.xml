@@ -50,7 +50,7 @@
     <snapshotRepository>
       <id>devops-snapshots</id>
       <name>devops-snapshots</name>
-      <url>http://172.17.0.5:8081/nexus/content/repositories/devops-releases</url>
+      <url>http://172.17.0.5:8081/nexus/content/repositories/devops-snapshots</url>
     </snapshotRepository>
   </distributionManagement>
 </profile>
