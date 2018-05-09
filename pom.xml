@@ -35,6 +35,4 @@
       <url>http://172.17.0.5:8081/nexus/content/repositories/devops-snapshots</url>
     </snapshotRepository>
   </distributionManagement>
-</profile>
-  </profiles>
 </project>
